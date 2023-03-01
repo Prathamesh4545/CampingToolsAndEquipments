@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665104098013",
+    "project_id": "campingtoolsandequipment",
+    "storage_bucket": "campingtoolsandequipment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665104098013:android:917c64db45a2690cba3134",
+        "android_client_info": {
+          "package_name": "com.example.campingtoolsandequipment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665104098013-r12a3t413phb3sk5vo95hao8v5fep0vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3SRCsciZ1jK03XpEh2dkciSYJS2aR14E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665104098013-r12a3t413phb3sk5vo95hao8v5fep0vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

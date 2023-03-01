@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CampingToolsAndEquipment</string>
+    <string name="title_activity_nav_bar">NavBarActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Camping Tools And Equipment</string>
+    <string name="nav_header_subtitle">dateprathamesh650@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_person">Person</string>
+    <string name="menu_allCategories">All Categories</string>
+    <string name="menu_trending">Trending</string>
+    <string name="menu_wishList">My WishList</string>
+    <string name="menu_card">My Card</string>
+    <string name="menu_order">My Order</string>
+    <string name="menu_helpCenter">Help Center</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Quick access front ‘V’ dart gusseted pocket Walking stick velcro loops for quick fastening Side mesh pockets to carry water bottles Zippered mesh pocket on the waist belt Sternum straps that help adjust the pack to chest size</string>
+    <string name="title_activity_nav_category">NavCategoryActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

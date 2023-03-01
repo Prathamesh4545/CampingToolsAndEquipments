@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.campingtoolsandequipment.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_person"
+        android:name="com.example.campingtoolsandequipment.ui.person.PersonFragment"
+        android:label="@string/menu_person"
+        tools:layout="@layout/fragment_person" />
+
+    <fragment
+        android:id="@+id/nav_allCategories"
+        android:name="com.example.campingtoolsandequipment.ui.allcategories.AllCategoriesFragment"
+        android:label="@string/menu_allCategories"
+        tools:layout="@layout/all_categories_fragment" />
+    <fragment
+        android:id="@+id/nav_helpCenter"
+        android:name="com.example.campingtoolsandequipment.ui.helpcenter.HelpCenterFragment"
+        android:label="@string/menu_helpCenter"
+        tools:layout="@layout/help_center_fragment" />
+    <fragment
+        android:id="@+id/nav_card"
+        android:name="com.example.campingtoolsandequipment.ui.mycard.MyCardFragment"
+        android:label="@string/menu_card"
+        tools:layout="@layout/my_card_fragment" />
+    <fragment
+        android:id="@+id/nav_order"
+        android:name="com.example.campingtoolsandequipment.ui.myorder.MyOrderFragment"
+        android:label="@string/menu_order"
+        tools:layout="@layout/my_order_fragment" />
+    <fragment
+        android:id="@+id/nav_wishList"
+        android:name="com.example.campingtoolsandequipment.ui.myWishList.MyWishListFragment"
+        android:label="@string/menu_wishList"
+        tools:layout="@layout/my_wish_list_fragment" />
+    <fragment
+        android:id="@+id/nav_trending"
+        android:name="com.example.campingtoolsandequipment.ui.trending.TrendingFragment"
+        android:label="@string/menu_trending"
+        tools:layout="@layout/trending_fragment" />
+
+</navigation>
